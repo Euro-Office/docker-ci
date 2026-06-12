@@ -1,0 +1,7 @@
+# Upstream emscripten/emsdk tags to mirror into ghcr.io/euro-office/emsdk
+#
+# One tag per line. Lines starting with '#' and blank lines are ignored.
+# Add the versions your CI pins here so they are always available from GHCR,
+# even when Docker Hub returns 5xx errors.
+latest
+5.0.4
